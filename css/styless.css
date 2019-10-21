@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 0;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+h3 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  margin-top: 0;
+  color: #11999E;
+
+}
+
+p {
+  color: #40514E;
+}
+
+hr {
+  width: 5%;
+  border-top: 6px;
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin: 100px auto 100px auto;
+  color: grey;
+
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 30px;
+}
+
+.co {
+
+text-decoration: underline;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+
+}
+
+.top-cloud {
+position: relative;
+  left: 220px;
+
+}
+
+.MountainImages {
+  padding-bottom: 0;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.coderYazisi {
+  font-weight: normal;
+}
+
+.profilFoto {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align : left;
+  line-height: 2;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  position: relative;
+  top: 10.5px;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  position: relative;
+  top: 14.5px;
+}
+
+.SkillsKaydirma {
+  position: relative;
+  left: 30px;
+}
+
+.contact-me {
+  line-height: 2;
+  margin-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px 30px;
+}
+
+.footer-link {
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.emre2020 {
+  color: #EAF6F6;
+  font-size: 0.8em;
+  margin-top: 40px;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:9px 22px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
